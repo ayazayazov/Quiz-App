@@ -6,7 +6,9 @@
     font-family: 'Poppins', sans-serif;
 }
 body{
+    height: 100vh;
     background-color: #001e4d;
+    background: linear-gradient(45deg, #141E30, #243B55);
 }
 .app{
     background-color: #fff;
